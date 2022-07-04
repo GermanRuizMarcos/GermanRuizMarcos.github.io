@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Publications 
 layout: page2
 ---
 
@@ -51,7 +51,7 @@ layout: page2
 
 <p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"><b>Germán Ruiz-Marcos</b>. <em>My computer writes music on its own... does yours?</em> 8th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW), 2019. <a href="https://doi.org/10.21954/ou.rd.13026956.v1">PDF</a></p>
 
-<p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"><b>Germán Ruiz-Marcos</b>. </em>Some considerations upon the generation of melodies matching tension</em>. In proceedings of the 2019 CRC PhD Student Conference, The Open University, Milton Keynes, 2019.</p>
+<p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"><b>Germán Ruiz-Marcos</b>. <em>Some considerations upon the generation of melodies matching tension</em>. In proceedings of the 2019 CRC PhD Student Conference, The Open University, Milton Keynes, 2019.</p>
 
 
 
