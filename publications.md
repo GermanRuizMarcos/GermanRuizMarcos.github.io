@@ -7,7 +7,7 @@ layout: default2
 
 &ensp; ***Ph.D.***
 
-&ensp;&ensp; <p style='text-align: justify;'>**Germán Ruiz-Marcos**. *Tension-driven Automatic Music Generation*.PhD thesis The Open University, 2022. [PDF](https://doi.org/10.21954/ou.ro.000142cf)</p>
+&ensp;&ensp; <p style='text-align: justify;'> **Germán Ruiz-Marcos**. *Tension-driven Automatic Music Generation*.PhD thesis The Open University, 2022. [PDF](https://doi.org/10.21954/ou.ro.000142cf) </p>
 
 &ensp; ***Master's degree***
 

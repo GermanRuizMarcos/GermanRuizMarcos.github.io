@@ -9,9 +9,6 @@ layout: page
 <p style='text-align: justify;'> My name is Germán Ruiz-Marcos. I am a Music & AI enthusiast. I try to understand the way humans perceive, describe and create music and emulate these processes computationally. My dream is to be part of the revolution that is to build the next generation of music intelligent systems. *Wanna come along?* </p>
 
 
-
-
-
 ```
 <p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
