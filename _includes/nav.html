@@ -6,13 +6,6 @@
             </li>
         {% endif %}
 
-        - about (add some cv info)
-        - projects
-        - publications
-        - research
-        - music
-        
-
         {% if site.about == true %}
             {% if page.title != "About" %}
                 <li class="item">
@@ -32,7 +25,7 @@
         {% if site.projects == true %}
             {% if page.title != "Publications" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/projects">Publications</a>
+                    <a class="link" href="{{ site.url }}/publications">Publications</a>
                 </li>
             {% endif %}
         {% endif %}        
@@ -40,7 +33,7 @@
         {% if site.projects == true %}
             {% if page.title != "Research" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/projects">Research</a>
+                    <a class="link" href="{{ site.url }}/research">Research</a>
                 </li>
             {% endif %}
         {% endif %}
@@ -48,7 +41,7 @@
         {% if site.projects == true %}
             {% if page.title != "Music" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/projects">Music</a>
+                    <a class="link" href="{{ site.url }}/music">Music</a>
                 </li>
             {% endif %}
         {% endif %}
