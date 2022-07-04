@@ -5,15 +5,15 @@ layout: page2
 
 <h2>Theses</h2>
 
-<p style="margin-left:5%;"> <b><em>Ph.D.</em></b></p>
+<p style="margin-left:2.5%;"> <b><em>Ph.D.</em></b></p>
 
 <p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"> <b>Germán Ruiz-Marcos</b>. <em>Tension-driven Automatic Music Generation</em>.PhD thesis The Open University, 2022. <a href="https://doi.org/10.21954/ou.ro.000142cf">PDF</a></p>
 
-<p style="margin-left:5%;"> <b><em>Master's</em></b></p>
+<p style="margin-left:2.5%;"> <b><em>Master's</em></b></p>
 
 <p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"><b>Germán Ruiz-Marcos</b>. <em>Analysis of the skills acquisition process in musical improvisation: an approach based on creativity</em>. Master thesis. Pompeu Fabra University, 2017. <a href="https://doi.org/10.5281/zenodo.1109736">PDF</a></p>
 
-<p style="margin-left:5%;"> <b><em>Bachelor's</em></b></p>
+<p style="margin-left:2.5%;"> <b><em>Bachelor's</em></b></p>
 
 <p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"><b>Germán Ruiz-Marcos</b>. <em>Physical model of the nerve impulse: from ion transport to neural networks</em>. Bachelor thesis. University of Salamanca, 2016.</p>
 
