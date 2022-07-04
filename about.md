@@ -4,6 +4,15 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
+<h1>Hi there!</h1>
+
+My name is Germán Ruiz-Marcos. I am a Music & AI enthusiast. I try to understand the way humans perceive, describe and create music and emulate these computationally. My dream is to be part of the revolution that is to build the next generation of music intelligent systems. *Wanna come along?*
+
+
+
+
+
+```
 <p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -43,3 +52,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
+```
