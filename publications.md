@@ -1,6 +1,6 @@
 ---
 title: Publications
-layout: default2
+layout: page2
 ---
 
 <h2>Theses</h2>
