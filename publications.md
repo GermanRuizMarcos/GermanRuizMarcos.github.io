@@ -7,7 +7,7 @@ layout: page2
 
 <p style="margin-left:2.5%;"> <b><em>Ph.D.</em></b></p>
 
-<p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"> <b>Germán Ruiz-Marcos</b>. <em>Tension-driven Automatic Music Generation</em>.PhD thesis The Open University, 2022. <a href="https://doi.org/10.21954/ou.ro.000142cf">PDF</a></p>
+<p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"> <b>Germán Ruiz-Marcos</b>. <em>Tension-driven Automatic Music Generation</em>. PhD thesis. The Open University, 2022. <a href="https://doi.org/10.21954/ou.ro.000142cf">PDF</a></p>
 
 <p style="margin-left:2.5%;"> <b><em>Master's</em></b></p>
 
@@ -21,9 +21,9 @@ layout: page2
 
 <h2>2021</h2>
 
-<p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"><b>Germán Ruiz-Marcos</b>, Robin Laney, and Alistair Willis. <em>autognomus: AUtomatic Tension Oriented GeNerator Of MUSic</em>. 2021. <a href="https://doi.org/10.21954/ou.rd.15028599.v1">PDF</a></p>
+<p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"><b>Germán Ruiz-Marcos</b>, Robin Laney, and Alistair Willis. <em>autognomus: AUtomatic Tension Oriented GeNerator Of MUSic</em>. 2021. <a href="https://doi.org/10.21954/ou.rd.15028599.v2">PDF</a></p>
 
-<p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"><b>Germán Ruiz-Marcos</b>. <em>Automatically generating music that matches tension: a brief review of my PhD project</em>. In proceedings of the 2021 CRC PhD Student Conference, The Open University, Milton Keynes, 2021</p>
+<p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"><b>Germán Ruiz-Marcos</b>. <em>Automatically generating music that matches tension: a brief review of my PhD project</em>. In proceedings of the 2021 CRC PhD Student Conference, The Open University, Milton Keynes, 2021.</p>
 
 
 
@@ -32,14 +32,14 @@ layout: page2
 <p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"><b>Germán Ruiz-Marcos</b>, Alistair Willis, and Robin Laney. <em>Automatically calculating tonal tension</em>. The 2020 Joint Conference on AI Music Creativity, 2020. <a href="http://oro.open.ac.uk/72732/">PDF</a></p>
 
 
-<p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"><b>Germán Ruiz-Marcos</b>, Robin Laney, and Alistair Willis. <em>How to automatically calculate tonal tension using AuToTen</em>. DMRN+15: Digital Music Research Network, Queen Mary University of London, 2020. [PDF] (https://www.qmul.ac.uk/dmrn/dmrn15/)</p>
+<p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"><b>Germán Ruiz-Marcos</b>, Robin Laney, and Alistair Willis. <em>How to automatically calculate tonal tension using AuToTen</em>. DMRN+15: Digital Music Research Network, Queen Mary University of London, 2020. <a href="https://www.qmul.ac.uk/dmrn/dmrn15/">PDF</a></p>
 
 
-<p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"><b>Germán Ruiz-Marcos</b>, Robin Laney, and Alistair Willis. <em>AuToTen: an automatic calculator of tension in tonal music</em>. 2020. [PDF](https://doi.org/10.21954/ou.rd.13026578.v1)</p>
+<p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"><b>Germán Ruiz-Marcos</b>, Robin Laney, and Alistair Willis. <em>AuToTen: an automatic calculator of tension in tonal music</em>. 2020. <a href="https://doi.org/10.21954/ou.rd.13026578.v1">PDF</a></p>
 
 <p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"><b>Germán Ruiz-Marcos</b>, Alistair Willis, and Robin Laney. <em>AuToTen: a video introduction</em>. 2020. <a href="https://doi.org/10.21954/ou.rd.13128827.v3">VIDEO</a></p>
 
-<p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"><b>Germán Ruiz-Marcos</b>. <em>Tension-driven automatic music generation: the whats, whys and hows</em>. In proceedings of the 2020 CRC PhD Student Conference, The Open University, Milton Keynes, 2020</p>
+<p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"><b>Germán Ruiz-Marcos</b>. <em>Tension-driven automatic music generation: the whats, whys and hows</em>. In proceedings of the 2020 CRC PhD Student Conference, The Open University, Milton Keynes, 2020.</p>
 
 
 
@@ -51,13 +51,13 @@ layout: page2
 
 <p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"><b>Germán Ruiz-Marcos</b>. <em>My computer writes music on its own... does yours?</em> 8th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW), 2019. <a href="https://doi.org/10.21954/ou.rd.13026956.v1">PDF</a></p>
 
-<p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"><b>Germán Ruiz-Marcos</b>. </em>Some considerations upon the generation of melodies matching tension</em>. In proceedings of the 2019 CRC PhD Student Conference, The Open University, Milton Keynes, 2019</p>
+<p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"><b>Germán Ruiz-Marcos</b>. </em>Some considerations upon the generation of melodies matching tension</em>. In proceedings of the 2019 CRC PhD Student Conference, The Open University, Milton Keynes, 2019.</p>
 
 
 
 <h2>2018</h2>
 
-<p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"><b>Germán Ruiz-Marcos</b>. <em>Tonal tension as explicit musical meaning in a real-time algorithmic composition system</em>. In proceedings of the 2018 CRC PhD Student Conference, The Open University, Milton Keynes, 2018</p>
+<p style='text-align: justify;' style="margin-left:5%; margin-right:5%;"><b>Germán Ruiz-Marcos</b>. <em>Tonal tension as explicit musical meaning in a real-time algorithmic composition system</em>. In proceedings of the 2018 CRC PhD Student Conference, The Open University, Milton Keynes, 2018.</p>
 
 <h2>2017</h2>
 
