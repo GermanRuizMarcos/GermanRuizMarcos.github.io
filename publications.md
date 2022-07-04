@@ -5,15 +5,15 @@ layout: default
 
 <h2>Theses</h2>
 
-&ensp;<h3>Ph.D.</h3>
+&ensp; ***Ph.D.***
 
-&nbsp; &nbsp; **Germán Ruiz-Marcos**. *Tension-driven Automatic Music Generation*.PhD thesis The Open University, 2022. [PDF](https://doi.org/10.21954/ou.ro.000142cf)
+&ensp;&ensp; **Germán Ruiz-Marcos**. *Tension-driven Automatic Music Generation*.PhD thesis The Open University, 2022. [PDF](https://doi.org/10.21954/ou.ro.000142cf)
 
-&ensp;<h3>Master's degree</h3>
+&ensp; ***Master's degree***
 
 &ensp;&ensp; **Germán Ruiz-Marcos**. *Analysis of the skills acquisition process in musical improvisation: an approach based on creativity*. Master thesis. Pompeu Fabra University, 2017. [PDF](https://doi.org/10.5281/zenodo.1109736)
 
-&ensp;<h3>Bachelor's degree</h3>
+&ensp; ***Bachelor's degree***
 
 &ensp;&ensp; **Germán Ruiz-Marcos**. *Physical model of the nerve impulse: from ion transport to neural networks*. Bachelor thesis. University of Salamanca, 2016.
 
