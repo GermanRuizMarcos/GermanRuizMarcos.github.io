@@ -3,6 +3,9 @@ title: Publications
 layout: page2
 ---
 
+<h1>Things I’ve written about …</h1>
+
+
 <h2>Theses</h2>
 
 <p style="margin-left:2.5%;"> <b><em>Ph.D.</em></b></p>
