@@ -12,7 +12,7 @@ author: germanruizmarcos
 description: always
 ---
 
-<p style='text-align: justify;'><em>always</em> is a dialogue between an oboe and a piano. It tells the story of a friend of mine. Last thing we said to each other is that we'd meet for a coffee. Sadly, that was years ago. We never had that coffee :(</p>
+<p style='text-align: justify;'><em>always</em> is a dialogue between an oboe and a piano. It tells the story of a friend of mine. The last thing we said to each other is that we'd meet for a coffee. Sadly, that was years ago. We never had that coffee :(</p>
 
 
 ## Have a listen ;)

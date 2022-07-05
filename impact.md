@@ -30,12 +30,12 @@ layout: page2
 
 <h2>2019</h2>
 
-<p style='text-align: justify;' style="margin-left:5%; margin-right:5%;">Milton Keynes Innovates Festival, Open University (Milton Keynes, UK) 11-12 Oct 2018 8th International Conference on Aective Computing and Intelligent InteractionWorkshops and Demos, (Cambridge, UK), 03 Sep 2019/p>
+<p style='text-align: justify;' style="margin-left:5%; margin-right:5%;">Milton Keynes Innovates Festival, Open University (Milton Keynes, UK) 11-12 Oct 2018 8th International Conference on Affective Computing and Intelligent InteractionWorkshops and Demos, (Cambridge, UK), 03 Sep 2019/p>
 
 <p style='text-align: justify;' style="margin-left:5%; margin-right:5%;">
 Centre for Research in Computing (CRC) and Knowledge Media Institute (kMI) PhD Student Conference, Open University (Milton Keynes, UK), 27 Jun 2019</p>
 
-<p style='text-align: justify;' style="margin-left:5%; margin-right:5%;">8th International Conference on Aective Computing and Intelligent InteractionWorkshops and Demos, (Cambridge, UK), 04 Sep 2019</p>
+<p style='text-align: justify;' style="margin-left:5%; margin-right:5%;">8th International Conference on Affective Computing and Intelligent InteractionWorkshops and Demos, (Cambridge, UK), 04 Sep 2019</p>
 
 <p style='text-align: justify;' style="margin-left:5%; margin-right:5%;">14th Postgraduate Research Students Poster Competition, Open University (Milton Keynes, UK), 11 Jun 2019</p>
 

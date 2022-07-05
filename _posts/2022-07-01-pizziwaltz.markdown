@@ -12,7 +12,7 @@ author: germanruizmarcos
 description: pizziwaltz
 ---
 
-<p style='text-align: justify;'><em>pizziwaltz</em> is a fun short piece of music for string quartet. It tries to mimick the style of the <em>waltz</em>, although it must be said that its bass line (i.e. the meloy of the cello) is much more insteresing, musically speaking, than those of more traditional <em>waltzes</em>.</p>
+<p style='text-align: justify;'><em>pizziwaltz</em> is a fun short piece of music for string quartet. It tries to mimic the style of the <em>waltz</em>, although it must be said that its bass line (i.e. the melody of the cello) is much more interesting, musically speaking, than those of more traditional <em>waltzes</em>.</p>
 
 
 ## Have a listen ;)

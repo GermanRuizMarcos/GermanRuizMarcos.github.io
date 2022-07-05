@@ -14,7 +14,7 @@ description: sitar's player song
 
 <p style='text-align: justify;'><em>sitar's player song</em> is a love song. Its name is inspired by Baz Luhrmann's <em>Moulin Rouge!</em>, a film where a story is told about a sitar player who writes a secret love song for his lover to remember him.</p>
 
-<p style='text-align: justify;'>The style of this piece of music is inspired by that of Ludovico Einaudi. You'll notice that at some point the music walks away from Einaudi's style. That's because I wanted to create some contrast and so I decided to mimick the style of a different composer. Can you guess which one?</p>
+<p style='text-align: justify;'>The style of this piece of music is inspired by that of Ludovico Einaudi. You'll notice that at some point the music walks away from Einaudi's style. That's because I wanted to create some contrast and so I decided to mimic the style of a different composer. Can you guess which one?</p>
 
 <p style='text-align: justify;'>The mysterious composer is Craig Armstrong! And since this piece is a love song, I was obviously inspired by Armstrong's score for the film <em>Love Actually</em> (although I must admit that <em>Love Actually</em>'s soundtrack is in turn lightly inspired by Mozart's <em>Piano Sonata N. 11 in A major</em>, so I'm not sure who I should be crediting here).</p>
 
