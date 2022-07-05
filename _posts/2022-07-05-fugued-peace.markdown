@@ -20,9 +20,5 @@ Did you that the word *IRINI* stands for peace in Greek? And do you know how the
 
 ## Have a listen ;)
 
-{% highlight html %}
-<iframe width="560" height="310" src="https://soundcloud.com/german-ruiz-115551229/fugued-peace/s-ofk0tlqToej?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" frameborder="0" allowfullscreen></iframe>
-{% endhighlight %}
-
 <iframe width="560" height="310" src="https://soundcloud.com/german-ruiz-115551229/fugued-peace/s-ofk0tlqToej?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" frameborder="0" allowfullscreen></iframe>
 
