@@ -12,12 +12,11 @@ author: germanruizmarcos
 description: fugued peace
 ---
 
- 
-Did you that *IRINI* is the Greek word for peace? And do you know how the letters in the word *IRINI* sound when given in Morse code?
+<p style='text-align: justify;'>Did you that <em>IRINI</em> is the Greek word for peace? And do you know how the letters in the word *IRINI* sound when given in Morse code?</p>
 
-*fugued peace* is a little fugue, for piano, about peace. The fugue's subject is directly inspired by the sound the word *IRINI* makes in Morse code. 
+<p style='text-align: justify;'><em>fugued peace</em> is a little fugue, for piano, about peace. The fugue's subject is directly inspired by the sound the word <em>IRINI</em> makes in Morse code.</p> 
 
-I once was asked about the meaning of this piece of music. How would I describe it? Well, I guess it's like a musical speech in search of *irini*, spoken through counterpoint in contemporary times. 
+<p style='text-align: justify;'>I once was asked about the meaning of this piece of music. How would I describe it? Well, I guess it's like a musical speech in search of <em>IRINI</em>, spoken through counterpoint in contemporary times.</p> 
 
 
 ## Have a listen ;)
