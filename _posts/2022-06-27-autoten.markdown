@@ -3,7 +3,7 @@ title: "AuToTen"
 layout: post
 tag:
 - AI
-- music generation
+- music analysis
 - tension
 image: https://germanruizmarcos.github.io/assets/images/autoten.png
 headerImage: true

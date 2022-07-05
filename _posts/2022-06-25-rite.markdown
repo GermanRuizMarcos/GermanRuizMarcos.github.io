@@ -1,0 +1,22 @@
+---
+title: "The rite of computing"
+layout: post
+tag:
+- AI
+- music generation
+- tension
+image: https://germanruizmarcos.github.io/assets/images/autoten.png
+headerImage: true
+projects: true
+description: "The rite of computing"
+category: project
+author: germanruizmarcos
+externalLink: false
+---
+
+<p style='text-align: justify;'>The goal of this project was to design and implement a computational system to automatically analyse Stravinski’s <em>The Rite of Spring</em>, in order to discover new possible points of view and supply the current deficiencies of the Music Computing common analysis systems.</p> 
+
+<p style='text-align: justify;'>The analytical system is implemented as a collection of Python functions supported upon a MATLAB feature extraction environment (implemented through the MIDI toolbox).</p> 
+
+
+[Check it out](https://arxiv.org/pdf/2011.04568.pdf) here.
