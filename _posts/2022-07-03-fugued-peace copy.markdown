@@ -12,7 +12,7 @@ author: germanruizmarcos
 description: fugued peace
 ---
 
-<p style='text-align: justify;'>Did you that <em>IRINI</em> is the Greek word for peace? And do you know how the letters in the word *IRINI* sound when given in Morse code?</p>
+<p style='text-align: justify;'>Did you know that <em>IRINI</em> is the Greek word for peace? And do you know how the letters in the word <em>IRINI</em> sound when given in Morse code?</p>
 
 <p style='text-align: justify;'><em>fugued peace</em> is a little fugue, for piano, about peace. The fugue's subject is directly inspired by the sound the word <em>IRINI</em> makes in Morse code.</p> 
 

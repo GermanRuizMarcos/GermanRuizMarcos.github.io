@@ -12,9 +12,9 @@ author: germanruizmarcos
 description: dosdomo
 ---
 
-<p style='text-align: justify;'><em>dosdomo</em> is more of an experiment than a formal piece of music. I conceived it as a prelude to a longer piece that is still in the making.</p>
+<p style='text-align: justify;'><em>dosdomo</em> is more of an experiment than a formal piece of music. I conceived it as a prelude to a longer piece. But, to be honest... that piece is still in the making.</p>
 
-<p style='text-align: justify;'> Instead of focusing a particular mode, <em>dosdomo</em> follows the Fibonacci sequence, a series of numbers each of which is the sum of the two preceding ones (i.e. 1, 1, 2, 3, 5, ...). The sequence acts as the piece's skeleton. Given a note, the Fibonacci sequence determines what the next interval should be and so determines which notes should be played. Isn't that great?!</p>
+<p style='text-align: justify;'> Instead of focusing on a particular mode, <em>dosdomo</em> follows the Fibonacci sequence, a series of numbers each of which is the sum of the two preceding ones (i.e. 1, 1, 2, 3, 5, ...). The sequence acts as the piece's skeleton. Given a note, the Fibonacci sequence determines what the next interval should be and so determines which notes should be played. Isn't it cool?!</p>
 
 ## Have a listen ;)
 
