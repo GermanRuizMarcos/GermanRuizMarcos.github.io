@@ -1,7 +1,7 @@
 ---
 title: "fugued peace"
 layout: post
-date:  
+date: 2022-07-05 10:02
 image:  
 headerImage: false
 tag:
@@ -13,7 +13,7 @@ author: germanruizmarcos
 description: A modern fugue for pieno
 ---
 
-Did you that the term *IRINI* stands for peace in Greek? And do you know how the letters in the word *IRINI* sound when given in Morse code?
+Did you that the word *IRINI* stands for peace in Greek? And do you know how the letters in the word *IRINI* sound when given in Morse code?
 
 *fugued peace* is a little fugue, for piano, about peace. The fugue's subject is directly inspired by the sound the word *IRINI* makes in Morse code. I once was asked about the meaning of this piece of music. How would I describe it? Well, I guess it's like a musical speech in search of *irini*, spoken through counterpoint in contemporary times. 
 
