@@ -1,0 +1,22 @@
+---
+title: "AuToTen"
+layout: post
+tag:
+- AI
+- music generation
+- tension
+image: https://germanruizmarcos.github.io/assets/images/autoten.png
+headerImage: true
+projects: true
+description: "AuToTen"
+category: project
+author: germanruizmarcos
+externalLink: false
+---
+
+<p style='text-align: justify;'>Since the early years of the past century, many scholars have focused their efforts towards designing models to better understand the way listeners perceive musical tension. From the existing models, Lerdahl’s has shown strong correlations against tension judgements provided by human listeners and has been used to make accurate predictions of musical tension. However, a full automation of Lerdahl’s model of tension has not yet been made available.</p> 
+
+<p style='text-align: justify;'><em>AuToTen</em>, as in <b>Au</b>tomatic <b>To</b>nal <b>Ten</b>sion, is a Python-based system which automatically calculates the degrees of tonal tension of a piece of music according to Lerdahl's Model of Tonal Tension. <em>AuToTen</em> uses some of <em>music21</em>’s main functions to perform automatic symbolic analyses of the input music.</p> 
+
+
+[Check it out](https://doi.org/10.21954/ou.rd.13128827.v3) here.
