@@ -4,17 +4,19 @@ layout: post
 image:  
 headerImage: false
 tag:
-- fugue
-- piano
-- irini
+- modes
+- modern ensemble
+- fresh
 category: blog
 author: germanruizmarcos
 description: molltatonikblue
 ---
 
-<p style='text-align: justify;'><em>molltatonikblue</em> is a short piece of music for modern esemble. It combines different modes and scales. Can you guess them? (<b>hint</b>:<em>moll</em> + <em>(oc)tatonic</em> + <em>blue(s)</em> (⚆_⚆))</p>
+<p style='text-align: justify;'><em>molltatonikblue</em> is a short piece of music for modern esemble. It combines different modes and scales. Can you guess them?</p>
 
-<p style='text-align: justify;'><em>Wait, why aren't you already listeting to <em>molltatonikblue</em>? Perhaps you are waiting for more fun facts about this piece of music. Hmmm... okay then, here it goes! One of the the rhythmic patterns used in the piece comes from a 2012 song by a very well-known Canadian singer. I dare you to identify the song. There is no hint this time, ha!</p> 
+<p style='text-align: center;'><b>hint</b>:<em>moll</em> + <em>(oc)tatonic</em> + <em>blue(s)</em> (⚆_⚆)</p>
+
+<p style='text-align: justify;'>Wait, why aren't you already listeting to <em>molltatonikblue</em>? Perhaps you are waiting for more fun facts about this piece of music. Hmmm... okay then, here it goes! One of the the rhythmic patterns used in the piece comes from a 2012 song by a very well-known Canadian singer. I dare you to identify the song. There is no hint this time, ha!</p> 
 
 
 
