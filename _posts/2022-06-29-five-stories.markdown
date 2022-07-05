@@ -12,7 +12,7 @@ author: germanruizmarcos
 description: five stories
 ---
 
-<p style='text-align: justify;'><em>five stories</em> is a piece of music for an unconventional ensemble of instruments. The piece is about… well, it’s about five stories. It has bits here and there from different periods of the history of music. If you happen to notice these bits, note that the periods from which they have been taken are organized in chronological order throughout the <em>five stories</em>. Because sometimes little things matter the most :)</p>
+<p style='text-align: justify;'><em>five stories</em> is a piece of music for an unconventional ensemble of instruments. The piece is about… well, it’s about five stories where an imaginary character travels accross the history of music. That's whey there are bits here and there from different periods of the history of music. If you happen to notice these bits, note that the periods from which they have been taken are organized in chronological order throughout the <em>five stories</em>. Because sometimes little things matter the most :)</p>
 
 
 ## Have a listen ;)
