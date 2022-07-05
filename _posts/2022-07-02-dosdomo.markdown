@@ -1,0 +1,21 @@
+---
+title: "dosdomo"
+layout: post
+image:  
+headerImage: false
+tag:
+- strings
+- quartet
+- experimental
+category: blog
+author: germanruizmarcos
+description: dosdomo
+---
+
+<p style='text-align: justify;'><em>dosdomo</em> is more of an experiment than a formal piece of music. I conceived it as a prelude to a longer piece that is still in the making.</p>
+
+<p style='text-align: justify;'> Instead of focusing a particular mode, <em>dosdomo</em> follows the Fibonacci sequence, a series of numbers each of which is the sum of the two preceding ones (i.e. 1, 1, 2, 3, 5, ...). The sequence acts as the piece's skeleton. Given a note, the Fibonacci sequence determines what the next interval should be and so determines which notes should be played. Isn't that great?!</p>
+
+## Have a listen ;)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1137613162%3Fsecret_token%3Ds-OA9hXN6zvqm&color=%2318db37&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/german-ruiz-115551229" title="Germán Ruiz" target="_blank" style="color: #cccccc; text-decoration: none;">Germán Ruiz</a> · <a href="https://soundcloud.com/german-ruiz-115551229/dosdomo/s-OA9hXN6zvqm" title="dosdomo" target="_blank" style="color: #cccccc; text-decoration: none;">dosdomo</a></div>

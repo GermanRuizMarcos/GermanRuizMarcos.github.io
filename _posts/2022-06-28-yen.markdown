@@ -1,0 +1,27 @@
+---
+title: "yen"
+layout: post
+image:  
+headerImage: false
+tag:
+- choir
+- classical
+- disney
+category: blog
+author: germanruizmarcos
+description: yen
+---
+
+<p style='text-align: justify;'>I got a theme from a Disney film stuck in my head once. While humming it non-stop, a started to ask myself lots of questions:</p>
+
+- How far can the theme be streched?
+- What if it was sung by a traditional choir?
+- Could the members of the choir sang questions and answers to each other, as if they were playing ping-pong with the music?
+- Would it be possible to mimick timpani with human voices and would it make any sense?
+</p>
+
+<p style='text-align: justify;'>Well, <em>yen</em> is the answer to those questions. And that is not the craziest thing about <em>yen</em>. As strange as it seems, it ocurred to me that it'd be a good idea to write some lyrics. And so I did. I turned <em>yen</em> into a Christmas carol. I know. I was in a rebel mood. 
+
+## Have a listen ;)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1137633259%3Fsecret_token%3Ds-j5WHyO3pyMK&color=%2318db37&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/german-ruiz-115551229" title="Germán Ruiz" target="_blank" style="color: #cccccc; text-decoration: none;">Germán Ruiz</a> · <a href="https://soundcloud.com/german-ruiz-115551229/yen/s-j5WHyO3pyMK" title="yen" target="_blank" style="color: #cccccc; text-decoration: none;">yen</a></div>
