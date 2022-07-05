@@ -5,7 +5,7 @@ tag:
 - AI
 - music generation
 - tension
-image: https://germanruizmarcos.github.io/assets/images/autoten.png
+image: https://germanruizmarcos.github.io/assets/images/stravinsky.png
 headerImage: true
 projects: true
 description: "The rite of computing"
