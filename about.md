@@ -11,6 +11,6 @@ layout: page
 <p style='text-align: justify;'>I'm a Music & AI enthusiast. I try to <b>understand</b> the way humans perceive, describe and create music to <b>emulate</b> these processes computationally. My dream is to be part of the revolution that is to build the next generation of music intelligent systems.</p>
 
 
-<p style='text-align: justify;'>I specialize in <b>identifying</b> AI-audio and AI-music challenges, <b>investigating</b> state-of-the-art solutions to these challenges, <b>building</b> AI tools and <b>leading</b> research and development teams.</p>
+<p style='text-align: justify;'>I specialize in <b>identifying</b> AI-audio and AI-music challenges, <b>investigating</b> state-of-the-art solutions to these challenges, <b>building</b> AI tools and <b>leading</b> teams to success.</p>
 
 <p style='text-align: justify;'>Let's create something awesome together!</p>
