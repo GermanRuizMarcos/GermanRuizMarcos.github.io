@@ -10,7 +10,7 @@ tag:
 - irini
 category: blog
 author: germanruizmarcos
-description: A modern fugue for pieno
+description: fugued peace
 ---
 
 Did you that the word *IRINI* stands for peace in Greek? And do you know how the letters in the word *IRINI* sound when given in Morse code?
