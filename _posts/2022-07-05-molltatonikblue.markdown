@@ -12,7 +12,7 @@ author: germanruizmarcos
 description: molltatonikblue
 ---
 
-<p style='text-align: justify;'><em>molltatonikblue</em> is a short piece of music for modern esemble. It combines different modes and scales. Can you guess them?</p>
+<p style='text-align: justify;'><em>molltatonikblue</em> is a short piece of music for modern esemble. It combines different modes and scales. Can you guess which ones?</p>
 
 <p style='text-align: center;'><b>hint</b>: <em>moll</em> + <em>(oc)tatonic</em> + <em>blue(s)</em> (⚆_⚆)</p>
 
