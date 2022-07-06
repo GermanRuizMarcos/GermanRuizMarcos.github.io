@@ -16,7 +16,7 @@ description: molltatonikblue
 
 <p style='text-align: center;'><b>hint</b>: <em>moll</em> + <em>(oc)tatonic</em> + <em>blue(s)</em> (⚆_⚆)</p>
 
-<p style='text-align: justify;'>Wait, why aren't you listeting to <em>molltatonikblue</em> already? Perhaps you are waiting for more fun facts about this piece of music. Hmmm... okay then, here it goes! One of the the rhythmic patterns used in the piece comes from a 2012 song by a very well-known Canadian singer. I dare you to identify the song. There is no hint this time, ha!</p> 
+<p style='text-align: justify;'>Wait, why aren't you listeting to <em>molltatonikblue</em> already? Perhaps you are waiting for more fun facts about this piece of music. Hmmm... okay then, here it goes! One of the rhythmic patterns used in the piece comes from a 2012 song by a very well-known Canadian singer. I dare you to identify the song. There is no hint this time, ha!</p> 
 
 
 
