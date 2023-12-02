@@ -5,12 +5,12 @@ tag:
 - AI
 - music analysis
 - tension
-image: https://germanruizmarcos.github.io/assets/images/autoten.png
+image: https://gerumar.github.io/assets/images/autoten.png
 headerImage: true
 projects: true
 description: "AuToTen"
 category: project
-author: germanruizmarcos
+author: gerumar
 externalLink: false
 ---
 

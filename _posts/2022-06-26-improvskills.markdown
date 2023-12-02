@@ -5,12 +5,12 @@ tag:
 - learning
 - improvisation
 - computer instrument
-image: https://germanruizmarcos.github.io/assets/images/master.jpg
+image: https://gerumar.github.io/assets/images/master.jpg
 headerImage: true
 projects: true
 description: "ImprovSkills"
 category: project
-author: germanruizmarcos
+author: gerumar
 externalLink: false
 ---
 

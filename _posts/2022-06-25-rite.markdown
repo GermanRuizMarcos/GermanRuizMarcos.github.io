@@ -5,12 +5,12 @@ tag:
 - AI
 - music generation
 - tension
-image: https://germanruizmarcos.github.io/assets/images/stravinsky.png
+image: https://gerumar.github.io/assets/images/stravinsky.png
 headerImage: true
 projects: true
 description: "The rite of computing"
 category: project
-author: germanruizmarcos
+author: gerumar
 externalLink: false
 ---
 

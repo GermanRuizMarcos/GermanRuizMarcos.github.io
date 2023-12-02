@@ -8,7 +8,7 @@ tag:
 - piano
 - irini
 category: blog
-author: germanruizmarcos
+author: gerumar
 description: sitar's player song
 ---
 

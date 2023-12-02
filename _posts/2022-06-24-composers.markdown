@@ -5,12 +5,12 @@ tag:
 - AI
 - MIR
 - classification
-image: https://germanruizmarcos.github.io/assets/images/composers.png
+image: https://gerumar.github.io/assets/images/composers.png
 headerImage: true
 projects: true
 description: "Guess who?"
 category: project
-author: germanruizmarcos
+author: gerumar
 externalLink: false
 ---
 
